@@ -86,23 +86,19 @@ console.log(lighterColor.toHex());  // New lighter HEX colo
 
 ## Output Format
 ### To RGBA
-```
-javascript
+```javascript
 const rgbaColor = color1.toRgba();  // "rgba(255, 87, 51, 1)"
 ```
 ### To RGB
-```
-javascript
+```javascript
 const rgbColor = color1.toRgb();  // "rgb(255, 87, 51)"
 ```
 ### To HEX
-```
-javascript
+```javascript
 const hexColor = color1.toHex();  // "#FF5733"
 ```
 ### To HSL
-```
-javascript
+```javascript
 const hslColor = color1.toHsl();  // "hsl(9, 100%, 60%)"
 ```
 

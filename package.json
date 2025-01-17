@@ -1,6 +1,6 @@
 {
   "name": "color-grid",
- "version": "1.0.1", 
+ "version": "1.0.2", 
   "description": "A simple package to manipulate colors in various formats.",
   "main": "src/color.js",
 
@@ -13,5 +13,5 @@
   "hex",
   "rgba"],
   "author": "suraj sakhare",
-  "license": "ISC"
+  "license": "MIT"
 }

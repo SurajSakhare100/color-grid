@@ -1,0 +1,17 @@
+{
+  "name": "color-grid",
+ "version": "1.0.1", 
+  "description": "A simple package to manipulate colors in various formats.",
+  "main": "src/color.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [ "color",
+  "rgb",
+  "hsl",
+  "hex",
+  "rgba"],
+  "author": "suraj sakhare",
+  "license": "ISC"
+}
